@@ -19,3 +19,4 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Warsaw
+          repositories_affiliations: owner, collaborator, organization_member
