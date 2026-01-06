@@ -4,4 +4,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![](https://github-readme-stats.vercel.app/api?username=imurashka&show_icons=true&theme=transparent)
+![Metrics](github-metrics.svg)
