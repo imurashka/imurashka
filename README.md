@@ -14,3 +14,4 @@
 * [build-number-action](https://github.com/Appegy/build-number-action) — Generate sequential build numbers using Abacus API.
 * [unity-version-action](https://github.com/Appegy/unity-version-action) — Extract Unity version from `ProjectVersion.txt`.
 * [verify-keystore-action](https://github.com/Appegy/verify-keystore-action) — Simple action to verify keystore validity.
+* [git-context-action](https://github.com/Appegy/git-context-action) — Action to extract git context from provided commit/SHA/branch/etc.
